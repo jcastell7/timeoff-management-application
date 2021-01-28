@@ -1,3 +1,6 @@
+Jenkins access: http://35.171.64.138:8080/
+Nexus Access: http://35.171.64.138:8081/
+
 
 # TimeOff.Management
 
