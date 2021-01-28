@@ -74,7 +74,7 @@ Optionally allow employees to see the time off information of entire company reg
 
 ### Cloud hosting
 
-Visit http://timeoff.management/
+Visit http://35.171.64.138:3000/
 
 Create company account and use cloud based version.
 
